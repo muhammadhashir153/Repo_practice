@@ -350,6 +350,9 @@ h2{
 .social a:hover{
     color: var(--main-color);
 }
+header{
+    position: absolute;
+}
 .footer-box h3{
     font-size: 1.1rem;
     font-weight: 400;
